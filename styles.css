@@ -44,7 +44,7 @@
 	background-color:#FF0000;
 }
 .link-boxes{
-	
+	display:flex
 }
 .bottom-details{
 	background-color:#2C303A;
